@@ -1,4 +1,4 @@
-# Threejs WebApp boilerplate 
+# Nextjs + Expressjs + Threejs WebApp boilerplate 
 
 This example contains everything needed to get a full Nodejs webapp up and running with docker-compose.
 Further instructions can be found in the frontend and backend readme files.
